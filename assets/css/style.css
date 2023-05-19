@@ -559,3 +559,6 @@ h3.my-profession{
     width: 100%;
     display: block;
 }
+.portfolio .portfolio-item-inner .portfolio-img img:hover{
+    transform: scale(1.02);
+}
